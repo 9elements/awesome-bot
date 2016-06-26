@@ -2,7 +2,14 @@
 
 A curated list of awesome bot and AI libraries and resources.
 
+## NLP / NLU
 
+- [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/)
+- [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) for [Tensorflow](https://www.tensorflow.org/)
+
+## Design
+
+- [Facebook Messenger UI Kit for Sketch](http://www.sketchappsources.com/free-source/1952-facebook-messenger-ui-kit-chatbots-sketch-freebie-resource.html)
 
 ## FAQ
 
