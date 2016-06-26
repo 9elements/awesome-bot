@@ -61,7 +61,7 @@ A curated list of awesome bot and AI libraries and resources.
 
 #### Libraries
 
-- [BotKit](https://howdy.ai/botkit/) for Slack
+- [BotKit](https://howdy.ai/botkit/) is a Node.js library for creating Slack bots.
 
 ## Design
 
