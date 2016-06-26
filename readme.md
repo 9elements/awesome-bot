@@ -60,6 +60,7 @@ No! SoundEx is a very old algorithms which removes too much information from the
 - [Deep learning for Chatbots Part 1](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
 - [The bot playbook](https://chatbotsmagazine.com/the-bot-playbook-7bb6d181a6a9#.fbtr2m3b3)
 - [Make a conversational bot in Ruby on Rails from scratch.](http://dreamingechoes.github.io/bot/ruby/rails/conversational-bot-ruby-on-rails/)
+
 ## Communities
 
 - [botALLY](http://slack.botally.net/) - A Slack community about bots, AI and NLP.
