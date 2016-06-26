@@ -15,6 +15,19 @@ A curated list of awesome bot and AI libraries and resources.
 
 ### NLP / NLU
 
+#### Concepts
+
+##### Grammar
+##### Corpus
+##### Parts of Speech
+##### Genre
+##### Parsing
+##### Inference Engine
+##### Domain
+##### Discourse
+
+#### Libraries
+
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/)
 - [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) for [Tensorflow](https://www.tensorflow.org/)
 - [NLTK](http://www.nltk.org/) for Python
