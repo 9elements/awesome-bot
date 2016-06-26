@@ -76,12 +76,6 @@ A curated list of awesome bot and AI libraries and resources.
 
 - [Facebook Messenger UI Kit for Sketch](http://www.sketchappsources.com/free-source/1952-facebook-messenger-ui-kit-chatbots-sketch-freebie-resource.html)
 
-## FAQ
-
-### Should I use SoundEx to correct spellings?
-
-No! SoundEx is a very old algorithms which removes too much information from the original word. If you have the computing power do a dictionary search or use an algorithm like [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance).
-
 ## Blogposts
 
 - [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.9w41fhku9)
@@ -93,6 +87,12 @@ No! SoundEx is a very old algorithms which removes too much information from the
 
 - [botALLY](http://slack.botally.net/) - A Slack community about bots, AI and NLP.
 - [Facebook Messenger Bots](https://www.facebook.com/groups/botsformessenger/) - Facebook group dealing about messenger bots
+
+## FAQ
+
+### Should I use SoundEx to correct spellings?
+
+No! SoundEx is a very old algorithms which removes too much information from the original word. If you have the computing power do a dictionary search or use an algorithm like [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance).
 
 ## Contributing
 
