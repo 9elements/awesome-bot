@@ -74,4 +74,3 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 - https://github.com/pandorabots/rosie
 - http://blog.pandorabots.com/rosie-customizable-base-content/
--
