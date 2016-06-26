@@ -19,7 +19,13 @@ A curated list of awesome bot and AI libraries and resources.
 
 ##### Grammar
 
+###### Stemming
+
 Stemming is the process of reducing inflected (or sometimes derived) words to their word stem. Porter Stemmer is one of the best known algorithms available in various implementations: [C++](https://tartarus.org/martin/PorterStemmer/), [Python](https://pypi.python.org/pypi/stemming/1.0), [Ruby](https://github.com/aurelian/ruby-stemmer), [Node.js](https://github.com/NaturalNode/natural)
+
+###### Tokenization
+
+Tokenization task involves sentence segmentation, word segmentation and boundary disambiguation. [Ruby](https://github.com/arbox/tokenizer)
 
 ##### Corpus
 
