@@ -25,7 +25,11 @@ A curated list of awesome bot and AI libraries and resources.
 
 ## Answer Generation
 
--
+## Platforms
+
+### Slack
+
+- [BotKit](https://howdy.ai/botkit/)
 
 ## Design
 
