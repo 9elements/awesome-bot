@@ -28,7 +28,7 @@ A curated list of awesome bot and AI libraries and resources.
 
 ##### Parts of Speech
 
-- (POS Tagger)[http://nlp.stanford.edu/software/tagger.shtml]
+- [POS Tagger](http://nlp.stanford.edu/software/tagger.shtml)
 
 ##### Genre
 
