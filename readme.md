@@ -2,6 +2,8 @@
 
 A curated list of awesome bot and AI libraries and resources.
 
+
+
 ## FAQ
 
 ### Should I use SoundEx to correct spellings?
@@ -15,6 +17,7 @@ No! SoundEx is a very old algorithms which removes too much information from the
 ## Communities
 
 [botALLY](http://slack.botally.net/) - A Slack community about bots, AI and NLP.
+[Facebook Messenger Bots](https://www.facebook.com/groups/botsformessenger/) - Facebook group dealing about messenger bots
 
 ## Contributing
 
