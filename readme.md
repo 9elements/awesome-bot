@@ -2,10 +2,25 @@
 
 A curated list of awesome bot and AI libraries and resources.
 
-## NLP / NLU
+## Language Parsing Tools
+
+### Regular Expressions
+
+- [RegexOne](http://regexone.com/) - Learn regular expressions with simple, interactive exercises.
+- [Regex101](https://regex101.com/) - an online tool for testing regular expressions.
+
+### NLP / NLU
 
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/)
 - [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) for [Tensorflow](https://www.tensorflow.org/)
+
+## Knowledge Base
+
+## Context Management
+
+## Answer Generation
+
+-
 
 ## Design
 
