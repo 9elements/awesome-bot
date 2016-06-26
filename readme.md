@@ -51,9 +51,26 @@ A curated list of awesome bot and AI libraries and resources.
 
 ## Platforms
 
+### Facebook Messenger
+
+- [Facebook Messenger](https://developers.facebook.com/products/messenger/)
+
 ### Slack
 
+- [Slack Bot Platform](https://api.slack.com/bot-users)
 - [BotKit](https://howdy.ai/botkit/)
+
+### Discord
+
+- [Discord](https://blog.discordapp.com/the-robot-revolution-has-unofficially-begun/)
+
+### Telegram
+
+- [Telegram](https://core.telegram.org/bots/api)
+
+### Kik
+
+- [Kik](https://dev.kik.com/)
 
 ## Design
 
