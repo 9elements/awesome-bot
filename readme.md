@@ -19,7 +19,9 @@ No! SoundEx is a very old algorithms which removes too much information from the
 
 ## Blogposts
 
+- [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.9w41fhku9)
 - [Deep learning for Chatbots Part 1](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
+- [The bot playbook](https://chatbotsmagazine.com/the-bot-playbook-7bb6d181a6a9#.fbtr2m3b3)
 
 ## Communities
 
@@ -29,3 +31,9 @@ No! SoundEx is a very old algorithms which removes too much information from the
 ## Contributing
 
 Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+
+## Misc (work in Progress)
+
+- https://github.com/pandorabots/rosie
+- http://blog.pandorabots.com/rosie-customizable-base-content/
+-
