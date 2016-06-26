@@ -19,13 +19,7 @@ A curated list of awesome bot and AI libraries and resources.
 
 ##### Grammar
 
-Stemming is the process of reducing inflected (or sometimes derived) words to their word stem.
-
--  - Word stemming algorithm
--
-| C++                                                           | Python                                                      | Ruby                                                       | Node.js                                                  |
-| ------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
-| [Porter Stemmer](https://tartarus.org/martin/PorterStemmer/)  | [Porter Stemmer](https://pypi.python.org/pypi/stemming/1.0) | [Porter Stemmer](https://github.com/aurelian/ruby-stemmer) | [Porter Stemmer](https://github.com/NaturalNode/natural) |
+Stemming is the process of reducing inflected (or sometimes derived) words to their word stem. [C++](https://tartarus.org/martin/PorterStemmer/), [Python](https://pypi.python.org/pypi/stemming/1.0), [Ruby](https://github.com/aurelian/ruby-stemmer), [Node.js](https://github.com/NaturalNode/natural)
 
 ##### Corpus
 
