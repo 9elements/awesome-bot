@@ -18,9 +18,20 @@ A curated list of awesome bot and AI libraries and resources.
 #### Concepts
 
 ##### Grammar
+
+- [Porter Stemmer](https://tartarus.org/martin/PorterStemmer/) - Word stemming algorithm
+- [Porter Stemmer Ruby](https://github.com/aurelian/ruby-stemmer)
+
 ##### Corpus
+
+- [Lemmatizer](https://github.com/yohasebe/lemmatizer) - Lemmatizer for text in English
+
 ##### Parts of Speech
+
+- (POS Tagger)[http://nlp.stanford.edu/software/tagger.shtml]
+
 ##### Genre
+
 ##### Parsing
 ##### Inference Engine
 ##### Domain
