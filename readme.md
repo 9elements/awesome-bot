@@ -83,7 +83,7 @@ A curated list of awesome bot and AI libraries and resources.
 
 ### Should I use SoundEx to correct spellings?
 
-No! SoundEx is a very old algorithms which removes too much information from the original word. If you have the computing power do a dictionary search or use an algorithm like [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance).
+No! SoundEx is a very old algorithm which removes too much information from the original word. If you have the computing power do a dictionary search or use an algorithm like [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance).
 
 ## Contributing
 
