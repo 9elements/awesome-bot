@@ -43,6 +43,20 @@ A curated list of awesome bot and AI libraries and resources.
 - [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) for [Tensorflow](https://www.tensorflow.org/)
 - [NLTK](http://www.nltk.org/) for Python
 
+### Deep learning
+
+#### Models for NLU
+
+- [LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+#### Methods for measuring performance
+
+- [Perplexity](https://www.youtube.com/watch?v=OHyVNCvnsTo)
+
+#### Training data
+
+- [Reddit Database](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/)
+
 ## Knowledge Base
 
 ## Context Management
